@@ -4,8 +4,8 @@
 
 # Aim
 To perform various foundational Image Transformations (Translation, Scaling, Shearing, Reflection, Rotation, and Cropping) on a given image using Python and OpenCV (cv2).
-# ProcedureImport 
-### Required Libraries:
+# Procedure
+###  Import Required Libraries:
 Import OpenCV (cv2), NumPy (np), and Matplotlib (plt) to handle image processing and plotting.
 ### Step 1:
 Load and Display the Original ImageRead the image from file using cv2.imread().Convert the color format from BGR to RGB using cv2.cvtColor() for correct rendering, and display it using plt.imshow().
